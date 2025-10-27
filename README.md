@@ -1,49 +1,99 @@
-# 👋 Hola, soy Sylvain Drexler
+# 👋 Hola, soy **Sylvain Drexler**  
+### 🚀 Full Stack Developer | React · Laravel · WordPress · DevOps
 
-Desarrollador Full Stack enfocado en crear soluciones web escalables, optimizadas y con impacto real en negocio.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/drex25/drex25/main/assets/banner.png" alt="Banner - Sylvain Drexler" width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://itsdrex.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-itsdrex.dev-FF6B6B?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/sylvain-drexler" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sylvain_Drexler-0077B5?style=for-the-badge"></a>
-  <a href="mailto:contact@itsdrex.dev" target="_blank"><img src="https://img.shields.io/badge/Email-contact@itsdrex.dev-D14836?style=for-the-badge"></a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-itsdrex.dev-FF6B6B?style=for-the-badge)](https://itsdrex.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvain_Drexler-0077B5?style=for-the-badge)](https://www.linkedin.com/in/sylvain-drexler)
+[![Email](https://img.shields.io/badge/Email-contact@itsdrex.dev-D14836?style=for-the-badge)](mailto:contact@itsdrex.dev)
+
+</div>
 
 ---
 
-## 🧱 Sobre mí
+### 💡 Sobre mí
+
+Desarrollador **Full Stack** con más de **5 años de experiencia** creando plataformas web, sistemas administrativos y soluciones e‑commerce enfocadas en **rendimiento, usabilidad y escalabilidad**.
+
+Me apasiona transformar ideas en productos digitales reales, manteniendo siempre una arquitectura limpia y código sostenible.
 
 ```js
 const sylvain = {
   location: "Misiones, Argentina 🇦🇷",
+  stack: ["React", "Laravel", "WordPress"],
   role: "Full Stack Developer",
-  focus: "Clean Architecture, Performance & E-commerce",
-  stack: ["React", "Laravel", "WordPress", "TypeScript"]
+  focus: "Arquitectura limpia y performance",
+  contact: "contact@itsdrex.dev"
 };
+```
 
-| Área           | Tecnologías                                    |
-| -------------- | ---------------------------------------------- |
-| Frontend       | React · TypeScript · JavaScript · Tailwind CSS |
-| Backend        | Laravel · PHP · Node.js                        |
-| E-commerce     | WooCommerce · Shopify                          |
-| DevOps & Tools | Docker · Git · AWS · CI/CD                     |
+---
 
-| Proyecto               | Descripción                                            | Stack           |
-| ---------------------- | ------------------------------------------------------ | --------------- |
-| Plataforma Corporativa | Sitio institucional + panel admin para gestión interna | React + Laravel |
-| E-commerce Escalable   | Tienda online optimizada para conversión y performance | WooCommerce     |
-| Dashboard Analytics    | Visualización de métricas y KPIs en tiempo real        | React + Node.js |
+### 🧠 Stack Principal
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=drex25&show_icons=true&theme=transparent&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=drex25&theme=transparent&hide_border=true" /> </p>
+**Frontend:** React · TypeScript · JavaScript · Tailwind CSS · Next.js  
+**Backend:** Laravel · PHP · Node.js · MySQL · REST APIs  
+**E‑commerce:** WooCommerce · Shopify  
+**DevOps & Tools:** Docker · Git · AWS · Linux · Vercel
 
-⏱️ Actividad Semanal (WakaTime)
-<!--START_SECTION:waka--> <!--END_SECTION:waka-->
+---
 
-🚀 Contacto / Colaboraciones
+### 📈 Highlights
 
-Si necesitás desarrollo web escalable, ecommerce de alto rendimiento o arquitectura técnica:
+- 🚀 15+ proyectos web completados  
+- 🛒 10+ tiendas online en producción  
+- ⚡ +60% mejora en conversiones promedio  
+- 🌎 4 idiomas (Español · Francés · Inglés · Alemán)  
+- 🧩 Experiencia en integraciones con APIs gubernamentales y privadas  
 
-📩 contact@itsdrex.dev
-🌐 https://itsdrex.dev
+---
 
-<div align="center"> Hecho con profesionalismo · by <a href="https://github.com/drex25">drex25</a> </div>
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drex25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drex25&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### ⏱️ Actividad de Código (WakaTime)
+
+<div align="center">
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=drex25&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@drex25)
+
+</div>
+
+---
+
+### 🧩 Proyectos Destacados
+
+- [Centro de Autogestión - Agencia Tributaria de Misiones](https://atmisiones.gob.ar/)  
+- [TSGroup - Portal de Empleo y Administración](https://tsgroup.com.ar/)  
+- [Med+ Contribu - Plataforma de Gestión Médica](https://medplus.com.ar/)  
+
+---
+
+### 🤝 Conectemos
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-drex25-181717?style=for-the-badge&logo=github)](https://github.com/drex25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvain_Drexler-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sylvain-drexler)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-itsdrex.dev-FF6B6B?style=for-the-badge)](https://itsdrex.dev/)
+[![Email](https://img.shields.io/badge/Email-contact@itsdrex.dev-D14836?style=for-the-badge)](mailto:contact@itsdrex.dev)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐️ Creado con pasión por <b>[Sylvain Drexler](https://github.com/drex25)</b> | Full Stack Developer 🚀</sub>
+</div>
