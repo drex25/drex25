@@ -67,7 +67,7 @@ const sylvain = {
 
 <div align="center">
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=drex25&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@drex25)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=dwilvins&layout=compact&theme=tokyonight&hide_border=true)](https://wakatime.com/@dwilvins)
 
 </div>
 
