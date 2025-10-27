@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sylvain Drexler
 
-Full Stack Developer · E‑commerce & Web Performance
+Full Stack Developer enfocado en construir soluciones web escalables y con impacto real.
 
 <div align="center">
 
@@ -12,31 +12,36 @@ Full Stack Developer · E‑commerce & Web Performance
 
 ---
 
-### 🧠 Sobre mí
+### 🚀 Sobre mí
 
-Creo soluciones digitales enfocadas en crecimiento, escalabilidad y experiencia de usuario. Trabajo con **React + Laravel** como stack principal y desarrollo experiencias e‑commerce optimizadas para conversión.
+Desarrollador con +5 años creando plataformas web y e-commerce optimizados para rendimiento y conversión. Especializado en **React**, **Laravel** y **WordPress/WooCommerce**.
 
 ```js
-const focus = ["React", "Laravel", "WordPress", "E‑commerce", "UX/UI"];```
+const sylvain = {
+  location: "Misiones, Argentina 🇦🇷",
+  stack: ["React", "Laravel", "WordPress"],
+  role: "Full Stack Developer",
+  focus: "Arquitectura limpia y performance"
+};
+```
 
 ---
 
-### 🧩 Tech Stack
+### 🧠 Stack Principal
 
-| Frontend | Backend | E‑commerce | Tools |
-|---------|---------|-----------|--------|
-| React · TS | Laravel · PHP | WooCommerce · Shopify | Docker · Git · AWS |
+**Frontend:** React · TypeScript · JavaScript · Tailwind CSS  
+**Backend:** Laravel · PHP · Node.js  
+**E‑commerce:** WooCommerce · Shopify  
+**DevOps & Tools:** Docker · Git · AWS
 
 ---
 
-### 🚀 Resultados
+### 📌 Highlights
 
-| Métrica | Valor |
-|--------|--------|
-| Proyectos Web | 15+ |
-| Tiendas Online | 10+ |
-| Mejora en Conversiones | +60% |
-| Idiomas | 4 |
+- 15+ proyectos web completados
+- 10+ tiendas online en producción
+- +60% de mejora en conversiones
+- 4 idiomas (ES · FR · EN · DE)
 
 ---
 
@@ -44,12 +49,12 @@ const focus = ["React", "Laravel", "WordPress", "E‑commerce", "UX/UI"];```
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=drex25&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drex25&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-✨ [Portafolio](https://itsdrex.dev) • [GitHub](https://github.com/drex25)
+⭐️ From [drex25](https://github.com/drex25)
 </div>
