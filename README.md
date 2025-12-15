@@ -2,7 +2,7 @@
 ### 🚀 Full Stack Developer | React · Laravel · WordPress · DevOps
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/drex25/drex25/main/assets/banner.png" alt="Banner - Sylvain Drexler" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGwohvnmOjD7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1679798622916?e=1767225600&v=beta&t=VFHvHfTe34F--43_854Fh2-L5lC_K_Ywam_uemqVlGw" alt="Banner - Sylvain Drexler" width="100%" />
 </div>
 
 <div align="center">
