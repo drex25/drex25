@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Sylvain Drexler Full Stack Developer Banner" width="100%" style="border-radius: 10px;" />
+<img src="./banner.png" alt="Sylvain Drexler Full Stack Developer Banner" width="100%" height="250" style="border-radius: 10px; object-fit: cover; object-position: center;" />
 
 <br/>
 
