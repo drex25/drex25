@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./banner.png" alt="Sylvain Drexler Full Stack Developer Banner" width="100%" height="250" style="border-radius: 10px; object-fit: cover; object-position: center;" />
+<img src="./banner_short.png" alt="Sylvain Drexler Full Stack Developer Banner" width="100%" style="border-radius: 10px;" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hola%2C+soy+Sylvain+Drexler+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80)](https://itsdrex.dev/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hola%2C+soy+Sylvain+Drexler+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80)](https://itsdrex.dev/)
 
 <p align="center">
   <a href="https://itsdrex.dev/"><img src="https://img.shields.io/badge/Portfolio-itsdrex.dev-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
